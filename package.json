@@ -1,0 +1,22 @@
+{
+  "name": "node-colors",
+  "version": "1.0.0",
+  "description": "refactoru first node exercise",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazzdragon/refactoru-week6-node-colors.git"
+  },
+  "author": "JazzDragon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazzdragon/refactoru-week6-node-colors/issues"
+  },
+  "homepage": "https://github.com/jazzdragon/refactoru-week6-node-colors",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
